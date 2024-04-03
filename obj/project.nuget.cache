@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "3E5FxUthpx3zYV+F0lY479AQ2LLV/tcoeEdcP26hrm4a9cH75Yqy0+4PMfNQaFUoeprTHkwX1HTKzSE5o+nkyA==",
+  "dgSpecHash": "wIU8OV8sn1L9DWFJ5N2KfvxYSzSIXQJl3u7jhcj4KnvtdnchMwJObRwJcjI6D5ButSWuCWBpTTCmNy+2yxwytQ==",
   "success": true,
   "projectFilePath": "/media/raul/d1964fe0-512e-4389-b8f7-b1bd04e82961/raul/Storage/Projects/Separados/Back/Backend/Backend.csproj",
   "expectedPackageFiles": [
@@ -49,6 +49,8 @@
     "/home/raul/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/home/raul/.nuget/packages/mono.texttemplating/2.2.1/mono.texttemplating.2.2.1.nupkg.sha512",
     "/home/raul/.nuget/packages/newtonsoft.json/13.0.3/newtonsoft.json.13.0.3.nupkg.sha512",
+    "/home/raul/.nuget/packages/npgsql/8.0.2/npgsql.8.0.2.nupkg.sha512",
+    "/home/raul/.nuget/packages/npgsql.entityframeworkcore.postgresql/8.0.2/npgsql.entityframeworkcore.postgresql.8.0.2.nupkg.sha512",
     "/home/raul/.nuget/packages/swashbuckle.aspnetcore/6.4.0/swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
     "/home/raul/.nuget/packages/swashbuckle.aspnetcore.swagger/6.4.0/swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
     "/home/raul/.nuget/packages/swashbuckle.aspnetcore.swaggergen/6.4.0/swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
