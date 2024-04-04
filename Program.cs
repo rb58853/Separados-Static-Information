@@ -3,6 +3,8 @@ using Microsoft.EntityFrameworkCore;
 // using Npgsql.EntityFrameworkCore.PostgreSQL;
 
 var builder = WebApplication.CreateBuilder(args);
+// var builder = new WebHostBuilder().UseUrls("http://localhost:5000", "http://odin:5000", "http://192.168.1.2:5000");
+
 
 // Add services to the container.
 //Crear cadena de conexion
